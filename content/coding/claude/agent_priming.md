@@ -1,8 +1,6 @@
 ---
-title: Linux is Cool
+title: Agent Priming
 ---
-
-
 ### Agent Priming.
 From [Disler](https://github.com/disler/claude-code-hooks-mastery/blob/main/.claude/commands/prime.md)
 
